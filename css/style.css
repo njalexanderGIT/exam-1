@@ -1,0 +1,12 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    border: 3px (0,141,0);
+    background-image: url("images/dog.JPG");
+    color: white;
+    font-size: 44px;
+    min-height: 350px
+}
